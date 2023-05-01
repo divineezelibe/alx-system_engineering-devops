@@ -4,5 +4,5 @@ num=10
 while [ "$num" -lt 10 ]
 do
     echo "Best School"
-    (( count++ ))
+    (( num++ ))
 done
