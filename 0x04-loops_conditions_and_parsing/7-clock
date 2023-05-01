@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times
+#  Bash script that displays the time for 12 hours and 59 minutes:
 
 num1=1
 num2=0
