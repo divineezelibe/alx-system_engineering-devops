@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times
+# A bash script that displays Best School 10 times.
 i=0
 for i in {1..10}
 do
